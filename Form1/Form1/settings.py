@@ -127,9 +127,9 @@ MEDIA_ROOT = [os.path.join(BASE_DIR, 'media')]
 
 
 
-AWS_STORAGE_BUCKET_NAME = 'django-form'
-AWS_ACCESS_KEY_ID = 'AKIA5YBALH4TRVDOWDAL'
-AWS_SECRET_ACCESS_KEY =  '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'
+AWS_STORAGE_BUCKET_NAME = '******************'
+AWS_ACCESS_KEY_ID = '**********************'
+AWS_SECRET_ACCESS_KEY =  '*********************'
 AWS_S3_CUSTOM_DOMAIN = '%s.s3.amazonaws.com' %  AWS_STORAGE_BUCKET_NAME
 
 AWS_S3_FILE_OVERWRITE = False
